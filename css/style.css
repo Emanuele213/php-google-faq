@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+h2 {
+    margin: 2rem 0;
+    font-size: 1.6rem;
+    color: #3C4061;
+}
+
+h3 {
+    margin: 2rem 0;
+    color: #3C4061;
+}
+
+p {
+    margin: 1rem 0;
+    font-size: 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: #3367D6;
+}
+
+ol {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.innerli {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    margin: 1rem 2rem;
+}
